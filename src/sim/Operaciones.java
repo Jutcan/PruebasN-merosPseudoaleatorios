@@ -102,6 +102,7 @@ public class Operaciones {
     }
     
     //Prueba de Chi-cuadrada
+    //Método principal
     public void PruebaChiCuadrada(){
 
         //Calculamos alfa
